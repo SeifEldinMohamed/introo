@@ -5,5 +5,6 @@
     <string name="slider3">"نتمني لكم استخدام ممتع و تجربة رائعة و نذكركم بكثرة الصلاة علي الرسول صلي الله عليه و سلم ."</string>
     <string name="pref_name">My pref</string>
     <string name="pref_key">My key</string>
+    <string name="down_image">down image</string>
 
 </resources>
